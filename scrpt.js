@@ -68,4 +68,4 @@ function calcular(){
     }
 }
 
-alert("NÃO FICOU PRONTO PRECISSO DE AJUDA NO CSS E NO JS ")
+alert("NÃO FICOU PRONTO PRECISSO DE AJUDA NO JS porque não entendi me ajuda ai pó nunca fiz nada de mal")
